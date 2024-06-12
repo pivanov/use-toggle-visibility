@@ -1,0 +1,6 @@
+{
+  "name": "@pivanov/use-toggle-visibility",
+  "version": "0.0.1",
+  "exports": "./dist/index.js",
+  "include": ["dist/**/*"]
+}
